@@ -65,4 +65,3 @@ A complete backend system for an Airbnb-like vacation rental platform built with
 - **Authentication**: JWT, OAuth 2.0
 - **Deployment**: Docker, AWS EC2
 
-## 📁 Project Structure
